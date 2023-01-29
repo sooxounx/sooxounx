@@ -1,11 +1,12 @@
 ### Hi there 
-
+안녕하세요 백엔드 개발자를 꿈꾸는 김수영입니다.
 ### About Me
-
+I graduated from the Department of Industrial Design.
+Certificated Korea IT program in Seoul
+Email : sooxounx@gmail.com
 ### Back-end
-
+java, spring, oracle
 ### Front-end
-
+html, css, javasript
 ### Tools
-
-https://camo.githubusercontent.com/4816137577e79b4d72c6b8c85bbc93e03cf1ba5610b6aac577a84644230b8734/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d3138313731372e7376673f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465
+github, Eclipse, Visual Studio Code, Bootstrap
